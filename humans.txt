@@ -1,0 +1,15 @@
+/* TEAM */
+	UI developer, Programmer, Web Designer, Graphic Designer: Emmanuel Moore
+	Twitter: @emmanuel_moore
+	Facebook: https://www.facebook.com/Emmanuel.Moore
+	From:Baltimore, Maryland
+
+/* THANKS */
+	Bruce Wayne Defender of Gotham
+
+/* SITE */
+	Last update:2015/02/04
+	Language: English
+	Doctype: Php, Js, HTML5, CSS3
+	IDE: Notepad++, Gedit, FileZilla, Inkscape, Gimp, Firefox,
+
